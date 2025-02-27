@@ -24,7 +24,7 @@ This project is a web application that mimics the user interface and core functi
   <img src="images/italic.png" alt="Cell Formatting: Italic" width="30%">
   <img src="images/underline.png" alt="Cell Formatting: Underline" width="30%">
 </div>  
-*Basic Cell Formatting - Bold, Italic, and Underline*
+Basic Cell Formatting - Bold, Italic, and Underline
 
 * **Row and Column Management:** Users can easily add, delete, and resize rows and columns.
 
@@ -38,9 +38,11 @@ This project is a web application that mimics the user interface and core functi
 
 <div align="center">
   <img src="images/imple1.png" alt="SUM Function Implementation" width="45%">
-  <img src="images/SUM.png" alt="SUM Function Example" width="45%">
 </div>  
-*SUM Function Implementation and Example*
+<div align="center">
+  <img src="images/SUM.png" alt="SUM Function Example" width="45%">
+</div> 
+SUM Function Implementation and Example
 
 ### 3. Data Quality Functions:
 
