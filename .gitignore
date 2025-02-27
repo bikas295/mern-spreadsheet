@@ -1,0 +1,5 @@
+node_modules/       # If you are using Node
+.DS_Store           # macOS specific
+*.log               # Log files
+/dist               # Distribution/build folder
+/build              # Another common build folder
