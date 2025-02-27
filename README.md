@@ -23,8 +23,10 @@ This project is a web application that mimics the user interface and core functi
   <img src="images/bold.png" alt="Cell Formatting: Bold" width="30%">
   <img src="images/italic.png" alt="Cell Formatting: Italic" width="30%">
   <img src="images/underline.png" alt="Cell Formatting: Underline" width="30%">
+  <br>
+  <em>Figure 2: Basic Cell Formatting - Bold, Italic, and Underline</em>
 </div>  
-Basic Cell Formatting - Bold, Italic, and Underline
+
 
 * **Row and Column Management:** Users can easily add, delete, and resize rows and columns.
 
@@ -38,11 +40,11 @@ Basic Cell Formatting - Bold, Italic, and Underline
 
 <div align="center">
   <img src="images/imple1.png" alt="SUM Function Implementation" width="45%">
-</div>  
-<div align="center">
   <img src="images/SUM.png" alt="SUM Function Example" width="45%">
-</div> 
-SUM Function Implementation and Example
+  <br>
+  <em>Figure 3: SUM Function Implementation and Example</em>
+</div>
+
 
 ### 3. Data Quality Functions:
 
@@ -85,4 +87,10 @@ SUM Function Implementation and Example
 
 1. Clone the repository:  
    ```sh
-   git clone [repository URL]
+   git clone https://github.com/bikas295/mern-spreadsheet.git
+
+## Live Demo
+
+Check out the live demo of the project here: [Google Sheets Clone Live Demo](https://sidd444.github.io/Google-Sheet-Clone/) (https://bikas295.github.io/mern-spreadsheet/)
+
+
